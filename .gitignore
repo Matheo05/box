@@ -1,0 +1,8 @@
+
+*.sublime-project
+
+*.sublime-workspace
+
+box.params.json
+
+BoxConfig.class.php
